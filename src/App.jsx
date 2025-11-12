@@ -151,8 +151,7 @@ export default function App() {
                 </div>
 
                 <div className="d-flex gap-2 mt-4">
-              
-                  <button type="submit" className="btn  flex-grow-1">
+                  <button type="submit" className="btn btn-primary flex-grow-1">
                     Calcular
                   </button>
                   <button
